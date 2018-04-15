@@ -9,7 +9,7 @@ app.set('view engine', 'hbs');
 hbs.registerPartials(__dirname + '/views/partials');
 
 
-app.get("/home", (request, response) => {
+app.get("/", (request, response) => {
     response.render('index.hbs');
 });
 
