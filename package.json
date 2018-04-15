@@ -1,0 +1,24 @@
+{
+  "name": "finalexam",
+  "version": "1.0.0",
+  "description": "This is Final Exam 2018",
+  "main": "main.js",
+  "dependencies": {
+    "express": "^4.16.3",
+    "hbs": "^4.0.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ViktorSheverdin/FinalExam2018.git"
+  },
+  "author": "Viktor Sheverdin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ViktorSheverdin/FinalExam2018/issues"
+  },
+  "homepage": "https://github.com/ViktorSheverdin/FinalExam2018#readme"
+}
